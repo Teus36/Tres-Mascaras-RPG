@@ -1,0 +1,16 @@
+TRÊS MÁSCARAS - A CHAGA DA PENITÊNCIA
+
+1. Extraia todos os arquivos do ZIP.
+2. No Windows de 64 bits, abra jogar.cmd para iniciar o jogo.
+   Ele configura UTF-8 automaticamente para exibir os acentos.
+   Use fonte monoespaçada e janela com pelo menos 80 colunas.
+3. No menu principal, [3] ajusta o ritmo das pausas da narrativa.
+4. Consulte README.md para regras, compilação e organização.
+5. Preencha seu nome e sua matrícula no início do README.
+6. Use docs/GUIA_DO_CODIGO.md para estudar a implementação.
+7. Use video/roteiro.md para gravar sua demonstração narrada.
+8. Adicione o link real do vídeo e publique o projeto na sua conta.
+
+O jogo inclui código-fonte C99, executável Windows, Makefile,
+script de compilação, testes e documentação. Não há salvamento.
+Vídeo e repositório remoto ainda não foram criados.
